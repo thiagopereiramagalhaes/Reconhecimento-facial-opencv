@@ -47,3 +47,8 @@ Os ids, são responsáveis por diferenciar um indivíduo do outro, cada indivíd
 <p>Utilizando o classificador gerado no treinamento, ele realiza um reconhecimento entre a imagem da live com as características do indivíduo treinado.</p>
 </div>
 </ol>
+
+<h3>Exemplo:</h3>
+
+![Exemplo Reconhecimento](https://user-images.githubusercontent.com/51063415/138610543-d3cde6a4-3237-455d-bb41-cd8c3378d993.png)
+
